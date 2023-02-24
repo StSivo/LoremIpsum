@@ -11,6 +11,7 @@
 		7B18932D29A637FB0072CB2F /* OnBoardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B18932C29A637FB0072CB2F /* OnBoardingView.swift */; };
 		7B18932F29A637FC0072CB2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B18932E29A637FC0072CB2F /* Assets.xcassets */; };
 		7B18933229A637FC0072CB2F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B18933129A637FC0072CB2F /* Preview Assets.xcassets */; };
+		7B18933929A8D5950072CB2F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B18933829A8D5950072CB2F /* ContentView.swift */; };
 		935A775029A8CCB400658106 /* Prova.swift in Sources */ = {isa = PBXBuildFile; fileRef = 935A774F29A8CCB400658106 /* Prova.swift */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		7B18932C29A637FB0072CB2F /* OnBoardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingView.swift; sourceTree = "<group>"; };
 		7B18932E29A637FC0072CB2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B18933129A637FC0072CB2F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7B18933829A8D5950072CB2F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		935A774F29A8CCB400658106 /* Prova.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prova.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,6 +60,7 @@
 				7B18932C29A637FB0072CB2F /* OnBoardingView.swift */,
 				7B18932E29A637FC0072CB2F /* Assets.xcassets */,
 				7B18933029A637FC0072CB2F /* Preview Content */,
+				7B18933829A8D5950072CB2F /* ContentView.swift */,
 			);
 			path = LoremIpsum;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				7B18932D29A637FB0072CB2F /* OnBoardingView.swift in Sources */,
 				7B18932B29A637FB0072CB2F /* LoremIpsumApp.swift in Sources */,
+				7B18933929A8D5950072CB2F /* ContentView.swift in Sources */,
 				935A775029A8CCB400658106 /* Prova.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
